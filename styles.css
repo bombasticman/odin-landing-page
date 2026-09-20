@@ -35,3 +35,24 @@ header > .links a {
     text-decoration: none;
     color: grey
 }
+
+.hero_section {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: space-between;
+    padding-left: 20vh;
+    padding-right: 20vh;
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+}
+
+.hero_section > .hero_left > .main_text {
+    font: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero_section > .hero_left > .secondary_text {
+    font: 18px;
+    color: #E5E7EB;
+}
