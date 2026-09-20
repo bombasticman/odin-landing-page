@@ -97,3 +97,19 @@ header > .links a {
     width: 14vh;
     border: 3px, solid, #3882f6;
 }
+
+.insprational_quote {
+    background-color: #E5E7EB;
+    font: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
