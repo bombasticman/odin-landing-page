@@ -136,3 +136,10 @@ header > .links a {
 .call_to_action > .action_box button {
     background-color: #3882f6;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
